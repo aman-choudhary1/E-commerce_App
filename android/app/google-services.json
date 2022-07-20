@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "147089445240",
+    "project_id": "my-e-commerce-6bbec",
+    "storage_bucket": "my-e-commerce-6bbec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147089445240:android:710ae56881b7a8fb30b88d",
+        "android_client_info": {
+          "package_name": "com.example.Shopology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147089445240-2ct2a41uhadrp6qmbkiq4m8rd304jgdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYPTfl6igxbJjtDhsE0E93ccc-zYoU67E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147089445240-2ct2a41uhadrp6qmbkiq4m8rd304jgdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
